@@ -1,3 +1,7 @@
 {
-  "key.auto_tool.toggle_swap": "Auto Tool Enable/Disable Key"
+  "key.auto_tool.toggle_swap": "Toggle Auto-Tool",
+  "message.auto_tool.enabled": "Tool Swapping Enabled",
+  "message.auto_tool.disabled": "Tool Swapping Disabled",
+  "message.auto_tool.switched": "Switched to %s",
+  "key.categories.misc": "Miscellaneous"
 }
